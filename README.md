@@ -4,3 +4,5 @@ IF you need a more up to date copy for any important reason, please contact me @
 
 (The reason I havent updated this is due to v3 being very large in file size (around 4gb). dw though, v4 will be much lighter)
 -# v4 soon 🤫
+
+For some reason,there are lost of Kazwire Proxy links here too...So...
