@@ -6,3 +6,8 @@ IF you need a more up to date copy for any important reason, please contact me @
 -# v4 soon 🤫
 
 For some reason,there are lost of Kazwire Proxy links here too...So...
+Just go to 
+```
+https://drive.google.com/file/d/1d0TY0FyCQf5aVNMeWxruXJgVnxhg8Usc/view?usp=sharing
+```
+to see the Kazwire links.I found them in a discord...
